@@ -1,0 +1,4 @@
+[user_id]: user_name
+	Current WobbleBits: 0
+	Health: 100
+	Steal Attempts: 5

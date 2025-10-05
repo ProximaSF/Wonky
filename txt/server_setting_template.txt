@@ -1,0 +1,5 @@
+Server ID: Server_ID | Server_Name
+Join Message: false
+Leave Message: false
+Word Games: false
+I'm Time Reset: {'enable': False, 'rested': False}
